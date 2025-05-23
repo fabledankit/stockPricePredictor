@@ -25,7 +25,7 @@ py -3.10 -m venv venv
 
 ### 3. Install dependencies.
 ```powershell
-pip install pandas numpy matplotlib seaborn tensorflow
+pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
 ```
 
 ### 4. Finally run program using the command, not run button.
@@ -57,7 +57,7 @@ source venv/bin/activate
 
 ### 3. Install dependencies.
 ```bash
-pip install pandas numpy matplotlib seaborn tensorflow
+pip install pandas numpy matplotlib seaborn tensorflow scikit-learn
 ```
 
 ### 4. Finally run program using the command, not run button.
